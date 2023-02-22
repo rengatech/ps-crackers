@@ -126,3 +126,7 @@ Route::get('/account-details', function () {
 Route::get('/address', function () {
     return view('address');
 });
+
+Route::get('/try', function () {
+    return view('try');
+});

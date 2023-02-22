@@ -22,7 +22,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
     <!-- fonts links -->
     <!-- bootstrap shopping cards css -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css">
 
     <!-- bootstrap shopping cards css end-->
     <!-- <link rel="icon" type="png" href="image/logo/favicon-2.png"> -->

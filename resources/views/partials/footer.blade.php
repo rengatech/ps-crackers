@@ -18,12 +18,12 @@
                         <h2>Menu</h2>
                         <ul>
                             <li><a href="/" class="text-decoration-none">Home</a></li>
-                            <li><a href="/about" class="text-decoration-none">About</a></li>                           
+                            <li><a href="/about" class="text-decoration-none">About</a></li>
                             <li><a href="/gallery" class="text-decoration-none">Product</a></li>
                            <li><a href="/contact" class="text-decoration-none">Contact</a></li>
                         </ul>
                     </div>
-                  
+
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h2>Our Social Network</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, ad?</p>
@@ -67,6 +67,9 @@
     <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
     <!-- bootstrap shopping card details end -->
+
+    <!-- MDB -->
+
     <script src="js/wow.min.js"></script>
               <script>
               new WOW().init();
