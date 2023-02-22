@@ -6,6 +6,9 @@
     <!-- top navbar -->
     @include('/partials/navbar')
 
+    <div class="d-flex justify-content-end price-tag1 blink1">
+        <a href="image/ps-crackers.pdf"download><img src="image/logo/price list1.png" alt=""></a>
+    </div>
 
     <section class="mt-5">
         <div class="justify-content-center  yellow d-flex align-items-center">
@@ -13,6 +16,9 @@
         </div>
         <div class="container mt-4">
             <div class="d-flex justify-content-evenly">
+                <h4 class="fw-bold fss-4">
+                    Image
+                </h4>
                 <h4 class="fw-bold fss-4">
                     Product Name
                 </h4>
@@ -47,6 +53,9 @@
                 <div class="collapse multi-collapse" id="multiCollapseExample1">
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -66,6 +75,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -85,6 +97,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -104,6 +119,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -123,6 +141,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -160,6 +181,10 @@
                 <div class="collapse multi-collapse" id="multiCollapseExample2">
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
+
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -179,6 +204,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -198,6 +226,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -217,6 +248,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
@@ -236,6 +270,9 @@
                     </div>
                     <div class=" card-body">
                         <div class="d-flex justify-content-around">
+                        <div>
+                            <img src="image/flowerpot/details/flower-2.png" alt="" height="65px">
+                        </div>
                         <div class="fss-5">
                             10 cm Electric Sparklers
                         </div>
