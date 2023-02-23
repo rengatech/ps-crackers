@@ -1444,50 +1444,50 @@
                     <div class="col-xl-8 mt-5">
                         <div class="w-100 form-group">
                             <div class="row">
-                                <div class="col-8 text-right">Net Total : </div>
+                                <div class="col-6 text-right">Net Total : </div>
                                 <div class="col-4 text-right"><span class="net_total pr-3">Rs.0</span></div>
                             </div>
                         </div>
                         <div class="w-100 form-group">
                             <div class="row">
-                                <div class="col-8 text-right">Discount Total : </div>
+                                <div class="col-6 text-right">Discount Total : </div>
                                 <div class="col-4 text-right"><span class="discount_total pr-3"></span></div>
                             </div>
                         </div>
                         <div class="w-100 form-group">
                             <div class="row">
-                                <div class="col-8 text-right">Sub Total : </div>
+                                <div class="col-6 text-right">Sub Total : </div>
                                 <div class="col-4 text-right"><span class="sub_total pr-3"></span></div>
                             </div>
                         </div>
 
                                         <div class="w-100 form-group minimum_order_amount_cover ">
                             <div class="row">
-                                <div class="col-8 text-right">Min.Order Amount : </div>
+                                <div class="col-6 text-right">Min.Order Amount : </div>
                                 <div class="col-4 text-right"><span class="minimum_order_amount pr-3">Rs.4,000.00</span></div>
                             </div>
                         </div>
                         <div class="w-100 form-group packing_charges_cover ">
                             <div class="row">
-                                <div class="col-8 text-right">Packing Charges : <span class="packing_charges">5%</span> </div>
+                                <div class="col-6 text-right">Packing Charges : <span class="packing_charges">5%</span> </div>
                                 <div class="col-4 text-right"><span class="packing_charges_value pr-3"></span></div>
                             </div>
                         </div>
                         <div class="w-100 form-group">
                             <div class="row">
-                                <div class="col-8 text-right">Round OFF : </div>
+                                <div class="col-6 text-right">Round OFF : </div>
                                 <div class="col-4 text-right"><span class="round_off pr-3"></span></div>
                             </div>
                         </div>
                         <div class="w-100 form-group">
                             <div class="row">
-                                <div class="col-8 text-right">Overall Total : </div>
+                                <div class="col-6 text-right">Overall Total : </div>
                                 <div class="col-4 text-right"><span class="overall_total pr-3"></span></div>
                             </div>
                         </div>
 
 
-                        <div class="w-100 text-right">
+                        <div class="w-100 text-center">
                             <button class="btn-2">
                                 <span id="submit" class="text">Submit</span>
                                 <i class="fa fa-check icon" style="background-color:#63459B"></i>
