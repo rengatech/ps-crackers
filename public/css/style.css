@@ -1462,6 +1462,7 @@ html {
       -webkit-animation-iteration-count:infinite;
       -webkit-animation-timing-function:ease-in-out;
       -webkit-animation-direction: alternate;
+      z-index: 20;
   }
 
 
@@ -1904,3 +1905,29 @@ transform: translateY(-50%);
     height: 80px;
     color: #63459B ;
 }
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.minimum_order_amount_cover {
+    color: red;
+    font-weight: bold;
+}
+
+.Order {
+    position: sticky;
+    top: 100px;
+    background-color: #ffc107;
+    font-size: 24px;
+    font-family: 'League Spartan', sans-serif;
+    height: 80px;
+    z-index: 10;
+}
+
+.strike {
+    text-decoration-color: #ff0000 !important;
+    text-decoration-thickness: 2px !important;
+    text-decoration: line-through;
+}
+
