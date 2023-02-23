@@ -14,7 +14,7 @@
         <div class="justify-content-center  yellow d-flex align-items-center">
             <h1> Order List</h1>
         </div>
-        <div class="justify-content-evenly d-flex align-items-center Order">
+        <div class="justify-content-evenly  yellow d-flex align-items-center Order">
             <div class="container  d-flex justify-content-evenly">
                <div class="hh5 fw-bold">
                 Original Price:
